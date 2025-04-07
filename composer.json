@@ -1,6 +1,6 @@
 {
     "name": "chromeheadlessiox/php-clientx",
-    "version":"1.4.0",
+    "version":"4.3.0",
     "description": "An Open Source PHP client to use cloud export service chromeheadless.io",
     "keywords": ["pdf export service","php client"],
     "homepage": "https://github.com/RyszardJaklewicz/composer-psr4-test.php",
