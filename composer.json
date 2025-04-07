@@ -20,5 +20,11 @@
         "psr-4": {
           "chromeheadlessiox\\": "src/"
         }
+    },
+    "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/RyszardJaklewicz/composer-psr4-test.php"
     }
+  ]
 }
