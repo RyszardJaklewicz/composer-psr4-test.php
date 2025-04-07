@@ -38,7 +38,7 @@ __Steps to generate token key:__
 The __PHP Client__ can be installed through composer
 
 ```bash
-composer require chromeheadlessio/php-client
+composer require chromeheadlessiox/php-client
 ```
 
 ## Example
